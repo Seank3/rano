@@ -1,0 +1,75 @@
+# Netlify configuration for the RANO artist platform.
+# Frontend: Vite static build (dist/). Backend: Netlify Functions + Netlify Blobs.
+
+[build]
+  command = "npm run build"
+  publish = "dist"
+  functions = "netlify/functions"
+
+[build.environment]
+  NODE_VERSION = "20"
+  # Netlify only builds the static frontend + serverless functions. Skip package
+  # install scripts (native better-sqlite3 build, ffmpeg-static download,
+  # Playwright browsers) that the Netlify runtime does not use. Frontend build
+  # tools (Vite/Rollup/esbuild) ship prebuilt platform binaries and still work.
+  # Local `npm install` is unaffected and installs everything normally.
+  NPM_FLAGS = "--ignore-scripts"
+
+[functions]
+  node_bundler = "esbuild"
+
+# Admin image upload → uploads function (must precede the /api/* catch-all)
+[[redirects]]
+  from = "/api/admin/upload"
+  to = "/.netlify/functions/uploads"
+  status = 200
+  force = true
+
+# API → serverless function
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/api/:splat"
+  status = 200
+  force = true
+
+# Uploaded images → uploads function (reads from Netlify Blobs)
+[[redirects]]
+  from = "/uploads/*"
+  to = "/.netlify/functions/uploads/:splat"
+  status = 200
+  force = true
+
+# SEO endpoints
+[[redirects]]
+  from = "/sitemap.xml"
+  to = "/.netlify/functions/api/sitemap.xml"
+  status = 200
+  force = true
+[[redirects]]
+  from = "/robots.txt"
+  to = "/.netlify/functions/api/robots.txt"
+  status = 200
+  force = true
+
+# SPA fallback (must be last)
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+# Per-route SEO/OG injection
+[[edge_functions]]
+  function = "meta"
+  path = "/*"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "camera=(), microphone=(), geolocation=()"
+
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"

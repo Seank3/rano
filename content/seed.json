@@ -1,0 +1,643 @@
+{
+  "profile": {
+    "name": "Ugakid RANO",
+    "shortName": "RANO",
+    "tagline": "Street grit. Raw emotion. The pulse of African-city life.",
+    "location": "Kampala, Uganda",
+    "genre": "Afro-Pop \u00b7 Hip-Hop \u00b7 Rap",
+    "bio": [
+      "RANO is a Ugandan rapper, singer and storyteller whose music blends street grit, raw emotion and the pulse of everyday African-city life. Switching effortlessly between English, Luganda, Runyakitara, Kiswahili and urban slang, his style captures both the hustle of the city and the soul of East Africa.",
+      "He first caught attention with 'Rolex Guy', a playful anthem inspired by Uganda's beloved street food as a symbol of love, hustle and identity. With 'Somebody Come', he breaks the silence on mental health and the struggles of youth searching for light in dark places.",
+      "Beyond music, RANO is a fearless performer who weaves comedy, social commentary and authentic UG flavour into his art. His debut Rolexperience event reflected his vision of turning culture into a movement \u2014 uniting people through street food, music and shared stories.",
+      "With every verse, Ugakid carries the spirit of the underdog \u2014 bold, unfiltered and unapologetically real."
+    ],
+    "portrait": "/images/rano-avatar.jpg",
+    "heroImage": "/images/videos/kampala-visualizer.jpg",
+    "socials": [
+      {
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/@UgakidRANO",
+        "handle": "@UgakidRANO"
+      }
+    ],
+    "streaming": [
+      {
+        "platform": "Apple Music",
+        "url": "https://music.apple.com/ug/artist/ugakid-rano/1795921652"
+      }
+    ],
+    "contactEmail": null,
+    "bookingEmail": null,
+    "pressEmail": null,
+    "brand": {
+      "bg": "#0a0a0b",
+      "surface": "#141416",
+      "text": "#f2ede4",
+      "muted": "#9b968c",
+      "accent": "#f5c518",
+      "accent2": "#d7263d"
+    },
+    "seo": {
+      "title": "RANO \u2014 Official Website of Ugakid RANO",
+      "description": "Official website of Ugakid RANO. Music, videos, news, gallery and bookings. Kampala, Uganda."
+    }
+  },
+  "releases": [
+    {
+      "id": "do-dat",
+      "slug": "do-dat",
+      "title": "Do Dat",
+      "artist": "Ugakid RANO",
+      "type": "single",
+      "date": "2026-06-18",
+      "genre": "Afro-Beat",
+      "artwork": "/images/releases/do-dat.jpg",
+      "description": "A 2026 single from Ugakid RANO, released June 18 alongside Wacha Wewe.",
+      "appleUrl": "https://music.apple.com/ug/album/do-dat/6782080608?i=6782080609&uo=4",
+      "spotifyUrl": null,
+      "youtubeUrl": null,
+      "audiomackUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/84/b9/f6/84b9f633-e583-9a48-5323-8d7f29099aa5/mzaf_11191623677156090264.plus.aac.p.m4a",
+      "durationMs": 333320,
+      "credits": [],
+      "tracks": [
+        {
+          "n": 1,
+          "title": "Do Dat",
+          "durationMs": 333320,
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/84/b9/f6/84b9f633-e583-9a48-5323-8d7f29099aa5/mzaf_11191623677156090264.plus.aac.p.m4a"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "wacha-wewe",
+      "slug": "wacha-wewe",
+      "title": "Wacha Wewe",
+      "artist": "Ugakid RANO",
+      "type": "single",
+      "date": "2026-06-18",
+      "genre": "Afro-Beat",
+      "artwork": "/images/releases/wacha-wewe.jpg",
+      "description": "The June 2026 single from Ugakid RANO, released the same day as Do Dat.",
+      "appleUrl": "https://music.apple.com/ug/album/wacha-wewe/6782170306?i=6782170307&uo=4",
+      "spotifyUrl": null,
+      "youtubeUrl": null,
+      "audiomackUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4e/31/d5/4e31d540-bd63-3c6c-feda-b732ff4612c0/mzaf_4894727602056268209.plus.aac.p.m4a",
+      "durationMs": 248240,
+      "credits": [],
+      "tracks": [
+        {
+          "n": 1,
+          "title": "Wacha Wewe",
+          "durationMs": 248240,
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4e/31/d5/4e31d540-bd63-3c6c-feda-b732ff4612c0/mzaf_4894727602056268209.plus.aac.p.m4a"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "noshanana",
+      "slug": "noshanana",
+      "title": "Noshanana (feat. UgaKid Rano & PB London)",
+      "artist": "George In The Middle",
+      "type": "feature",
+      "date": "2026-04-04",
+      "genre": "Hip-Hop/Rap",
+      "artwork": "/images/releases/noshanana.jpg",
+      "description": "George In The Middle joins UgaKid Rano and PB London for this April 2026 release.",
+      "appleUrl": "https://music.apple.com/ug/album/noshanana-feat-ugakid-rano-pb-london/1889882417?i=1889882419&uo=4",
+      "spotifyUrl": null,
+      "youtubeUrl": null,
+      "audiomackUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/be/b5/b6/beb5b6ae-d269-a816-848f-fb92d6917dac/mzaf_7187126656545881881.plus.aac.p.m4a",
+      "durationMs": 212712,
+      "credits": [],
+      "tracks": [
+        {
+          "n": 1,
+          "title": "Noshanana (feat. UgaKid Rano & PB London)",
+          "durationMs": 212712,
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/be/b5/b6/beb5b6ae-d269-a816-848f-fb92d6917dac/mzaf_7187126656545881881.plus.aac.p.m4a"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "dis-year",
+      "slug": "dis-year",
+      "title": "Dis Year (feat. UgaKid Rano)",
+      "artist": "George In The Middle",
+      "type": "feature",
+      "date": "2026-03-13",
+      "genre": "Hip-Hop/Rap",
+      "artwork": "/images/releases/dis-year.jpg",
+      "description": "George In The Middle featuring UgaKid Rano, March 2026.",
+      "appleUrl": "https://music.apple.com/ug/album/dis-year-feat-ugakid-rano/1883096130?i=1883096131&uo=4",
+      "spotifyUrl": null,
+      "youtubeUrl": null,
+      "audiomackUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d3/6e/a9/d36ea95e-f480-4ddf-229c-a1ba7aeeb2d3/mzaf_3642264153418654991.plus.aac.p.m4a",
+      "durationMs": 205320,
+      "credits": [],
+      "tracks": [
+        {
+          "n": 1,
+          "title": "Dis Year (feat. UgaKid Rano)",
+          "durationMs": 205320,
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d3/6e/a9/d36ea95e-f480-4ddf-229c-a1ba7aeeb2d3/mzaf_3642264153418654991.plus.aac.p.m4a"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "im-a-gorilla",
+      "slug": "im-a-gorilla",
+      "title": "I'M A GORILLA (feat. George In The Middle)",
+      "artist": "Ugakid RANO",
+      "type": "single",
+      "date": "2026-02-23",
+      "genre": "Afro-Pop",
+      "artwork": "/images/releases/im-a-gorilla.jpg",
+      "description": "A bold 2026 collaboration between Ugakid RANO and George In The Middle.",
+      "appleUrl": "https://music.apple.com/ug/album/im-a-gorilla-feat-george-in-the-middle/1880406687?i=1880406780&uo=4",
+      "spotifyUrl": null,
+      "youtubeUrl": null,
+      "audiomackUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0d/c5/cf/0dc5cf47-35b9-f879-1773-c7f09e7ac269/mzaf_12406227532834845616.plus.aac.p.m4a",
+      "durationMs": 160800,
+      "credits": [],
+      "tracks": [
+        {
+          "n": 1,
+          "title": "I'M A GORILLA (feat. George In The Middle)",
+          "durationMs": 160800,
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0d/c5/cf/0dc5cf47-35b9-f879-1773-c7f09e7ac269/mzaf_12406227532834845616.plus.aac.p.m4a"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "somebody-come",
+      "slug": "somebody-come",
+      "title": "Somebody Come (feat. IFFY)",
+      "artist": "Ugakid RANO",
+      "type": "single",
+      "date": "2025-09-18",
+      "genre": "Afro-Pop",
+      "artwork": "/images/releases/somebody-come.jpg",
+      "description": "A soundtrack of struggle and redemption, speaking to ghetto youths and the search for light in dark places.",
+      "appleUrl": "https://music.apple.com/ug/album/somebody-come-feat-iffy/1841079800?i=1841079801&uo=4",
+      "spotifyUrl": null,
+      "youtubeUrl": null,
+      "audiomackUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d9/7a/9d/d97a9dd6-20bc-90de-0baf-00362fdc0c72/mzaf_13047090968068847899.plus.aac.p.m4a",
+      "durationMs": 142341,
+      "credits": [
+        "Written by Ugakid RANO",
+        "Produced by Aice",
+        "Mastered by Klin The Musical",
+        "Recorded at Supreme Entertainment",
+        "Artwork by YOBOYAFRICA"
+      ],
+      "tracks": [
+        {
+          "n": 1,
+          "title": "Somebody Come (feat. IFFY)",
+          "durationMs": 142341,
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d9/7a/9d/d97a9dd6-20bc-90de-0baf-00362fdc0c72/mzaf_13047090968068847899.plus.aac.p.m4a"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "omukwano-mungi",
+      "slug": "omukwano-mungi",
+      "title": "Omukwano Mungi",
+      "artist": "Ugakid RANO",
+      "type": "single",
+      "date": "2025-09-01",
+      "genre": "Afro-Pop",
+      "artwork": "/images/releases/omukwano-mungi.jpg",
+      "description": "A 2025 single from Ugakid RANO.",
+      "appleUrl": "https://music.apple.com/ug/album/omukwano-mungi/1837149538?i=1837149539&uo=4",
+      "spotifyUrl": null,
+      "youtubeUrl": null,
+      "audiomackUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d6/b8/b7/d6b8b78c-cc46-3925-a7f6-19e4e8a87fb1/mzaf_17987980664916369995.plus.aac.p.m4a",
+      "durationMs": 160888,
+      "credits": [],
+      "tracks": [
+        {
+          "n": 1,
+          "title": "Omukwano Mungi",
+          "durationMs": 160888,
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d6/b8/b7/d6b8b78c-cc46-3925-a7f6-19e4e8a87fb1/mzaf_17987980664916369995.plus.aac.p.m4a"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "nadudu",
+      "slug": "nadudu",
+      "title": "Nadudu (feat. Ugakid RANO)",
+      "artist": "Aice",
+      "type": "feature",
+      "date": "2025-07-01",
+      "genre": "Afro-Beat",
+      "artwork": "/images/releases/nadudu.jpg",
+      "description": "A feature from Aice's UNCHAINED project, July 2025.",
+      "appleUrl": "https://music.apple.com/ug/album/nadudu-feat-ugakid-rano/1824377908?i=1824377913&uo=4",
+      "spotifyUrl": null,
+      "youtubeUrl": null,
+      "audiomackUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/53/17/f4/5317f470-e143-b6c3-bcbf-8be8cd64be00/mzaf_518126736449510414.plus.aac.p.m4a",
+      "durationMs": 160825,
+      "credits": [],
+      "tracks": [
+        {
+          "n": 1,
+          "title": "Nadudu (feat. Ugakid RANO)",
+          "durationMs": 160825,
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/53/17/f4/5317f470-e143-b6c3-bcbf-8be8cd64be00/mzaf_518126736449510414.plus.aac.p.m4a"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "party",
+      "slug": "party",
+      "title": "Party (feat. Ugakid RANO)",
+      "artist": "Aice",
+      "type": "feature",
+      "date": "2025-02-09",
+      "genre": "Afro-Beat",
+      "artwork": "/images/releases/party.jpg",
+      "description": "Aice and Ugakid RANO link up for a smooth, high-energy weekend anthem.",
+      "appleUrl": "https://music.apple.com/ug/album/party-feat-ugakid-rano/1795921650?i=1795921653&uo=4",
+      "spotifyUrl": null,
+      "youtubeUrl": null,
+      "audiomackUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d7/b4/2e/d7b42ed9-4aaa-3f4f-f85e-e8b8e62147ec/mzaf_6349419183924060415.plus.aac.p.m4a",
+      "durationMs": 181277,
+      "credits": [
+        "Produced by Yesaa-Fheelz",
+        "Mixed & mastered by Klin",
+        "Video by Syd / Yanki Creatives"
+      ],
+      "tracks": [
+        {
+          "n": 1,
+          "title": "Party (feat. Ugakid RANO)",
+          "durationMs": 181277,
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d7/b4/2e/d7b42ed9-4aaa-3f4f-f85e-e8b8e62147ec/mzaf_6349419183924060415.plus.aac.p.m4a"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "kampala",
+      "slug": "kampala",
+      "title": "Kampala",
+      "artist": "Ugakid RANO",
+      "type": "single",
+      "date": "2024-08-17",
+      "genre": "Hip-Hop/Rap",
+      "artwork": "/images/releases/kampala.jpg",
+      "description": "A city anthem from Ugakid RANO, rooted in the pulse of Kampala street life.",
+      "appleUrl": "https://music.apple.com/ug/album/kampala/1836203567?i=1836203568&uo=4",
+      "spotifyUrl": null,
+      "youtubeUrl": null,
+      "audiomackUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/96/bf/c5/96bfc50f-3d79-6505-b6db-f6bee3328372/mzaf_14047562700499168478.plus.aac.p.m4a",
+      "durationMs": 150247,
+      "credits": [],
+      "tracks": [
+        {
+          "n": 1,
+          "title": "Kampala",
+          "durationMs": 150247,
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/96/bf/c5/96bfc50f-3d79-6505-b6db-f6bee3328372/mzaf_14047562700499168478.plus.aac.p.m4a"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "oli-muka",
+      "slug": "oli-muka",
+      "title": "Oli Muka",
+      "artist": "Ugakid",
+      "type": "single",
+      "date": "2024-03-21",
+      "genre": "Afro-Beat",
+      "artwork": "/images/releases/oli-muka.jpg",
+      "description": "An early single from Ugakid, released March 2024.",
+      "appleUrl": "https://music.apple.com/ug/album/oli-muka/1737173438?i=1737173439&uo=4",
+      "spotifyUrl": null,
+      "youtubeUrl": null,
+      "audiomackUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/c4/b8/abc4b806-e959-a456-6846-d78b333e0318/mzaf_3341221873339101118.plus.aac.p.m4a",
+      "durationMs": 161749,
+      "credits": [],
+      "tracks": [
+        {
+          "n": 1,
+          "title": "Oli Muka",
+          "durationMs": 161749,
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/c4/b8/abc4b806-e959-a456-6846-d78b333e0318/mzaf_3341221873339101118.plus.aac.p.m4a"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "rolex-guy",
+      "slug": "rolex-guy",
+      "title": "Rolex Guy",
+      "artist": "Ugakid",
+      "type": "single",
+      "date": "2023-08-09",
+      "genre": "Afro-Beat",
+      "artwork": "/images/releases/rolex-guy.jpg",
+      "description": "The debut single that turned Uganda's beloved street food into a playful anthem of love, hustle and identity.",
+      "appleUrl": "https://music.apple.com/ug/album/rolex-guy/1701899767?i=1701899769&uo=4",
+      "spotifyUrl": null,
+      "youtubeUrl": null,
+      "audiomackUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/37/a9/a2/37a9a255-df4d-cb2a-f304-8bcbaa4db1b9/mzaf_2385389321076262223.plus.aac.p.m4a",
+      "durationMs": 163785,
+      "credits": [
+        "Written by Ugakid RANO",
+        "Produced, mixed & mastered by TrapexBoomin",
+        "Artwork by Racart Studios"
+      ],
+      "tracks": [
+        {
+          "n": 1,
+          "title": "Rolex Guy",
+          "durationMs": 163785,
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/37/a9/a2/37a9a255-df4d-cb2a-f304-8bcbaa4db1b9/mzaf_2385389321076262223.plus.aac.p.m4a"
+        }
+      ],
+      "featured": true
+    }
+  ],
+  "videos": [
+    {
+      "id": "party",
+      "title": "PARTY \u2014 Aice ft. Ugakid RANO",
+      "youtubeId": "L_SfuM5WrzY",
+      "date": "2025-02-09",
+      "thumbnail": "/images/videos/party.jpg",
+      "description": "Official music video by Aice featuring Ugakid RANO. A smooth, high-energy anthem built for the weekend and the dancefloor.",
+      "category": "Music Video",
+      "featured": true
+    },
+    {
+      "id": "somebody-come",
+      "title": "Somebody Come ft. IFFY \u2014 Official Lyrics Video",
+      "youtubeId": "EiHolcPDLG4",
+      "date": "2025-09-18",
+      "thumbnail": "/images/videos/somebody-come.jpg",
+      "description": "A soundtrack of struggle and redemption. Written by Ugakid RANO, produced by Aice.",
+      "category": "Lyrics Video",
+      "featured": true
+    },
+    {
+      "id": "kampala-visualizer",
+      "title": "Kampala \u2014 Official Visualizer",
+      "youtubeId": "MJcdw4A5XRs",
+      "date": "2024-08-17",
+      "thumbnail": "/images/videos/kampala-visualizer.jpg",
+      "description": "The original visualizer for Kampala, a city anthem rooted in street life.",
+      "category": "Visualizer",
+      "featured": true
+    },
+    {
+      "id": "omukwano-mungi",
+      "title": "Omukwano Mungi \u2014 Lyrics",
+      "youtubeId": "E9hRfIxd0D0",
+      "date": "2025-09-01",
+      "thumbnail": "/images/videos/omukwano-mungi.jpg",
+      "description": "Lyrical presentation of Omukwano Mungi.",
+      "category": "Lyrics Video",
+      "featured": false
+    },
+    {
+      "id": "rolex-guy-lyrics",
+      "title": "Rolex Guy \u2014 Lyrics",
+      "youtubeId": "TAJy2jaMGVE",
+      "date": "2023-08-09",
+      "thumbnail": "/images/videos/rolex-guy-lyrics.jpg",
+      "description": "Lyrics for the debut single that started it all.",
+      "category": "Lyrics Video",
+      "featured": false
+    },
+    {
+      "id": "oli-muka",
+      "title": "Oli Muka \u2014 Lyrical Visualizer",
+      "youtubeId": "ivHz3a0pojk",
+      "date": "2024-03-21",
+      "thumbnail": "/images/videos/oli-muka.jpg",
+      "description": "Lyrical visualizer for Oli Muka.",
+      "category": "Visualizer",
+      "featured": false
+    },
+    {
+      "id": "rolex-guy-audio",
+      "title": "Rolex Guy \u2014 Official Audio",
+      "youtubeId": "-B_dpGkA168",
+      "date": "2023-08-09",
+      "thumbnail": "/images/videos/rolex-guy-audio.jpg",
+      "description": "The official audio for Rolex Guy, the debut single.",
+      "category": "Audio",
+      "featured": false
+    },
+    {
+      "id": "rolexperience",
+      "title": "ROLEXPERIENCE \u2014 1st Edition Recap",
+      "youtubeId": "diZURmBVqLY",
+      "date": null,
+      "thumbnail": "/images/videos/rolexperience.jpg",
+      "description": "Recap of the debut Rolexperience event \u2014 culture, street food, music and shared stories.",
+      "category": "Event Recap",
+      "featured": false
+    }
+  ],
+  "gallery": [
+    {
+      "id": "g1",
+      "src": "/images/videos/kampala-visualizer.jpg",
+      "alt": "Ugakid RANO in the Kampala official visualizer",
+      "caption": "Kampala \u2014 official visualizer still",
+      "category": "Video Stills",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "g2",
+      "src": "/images/videos/party.jpg",
+      "alt": "Aice and Ugakid RANO in the PARTY music video",
+      "caption": "PARTY \u2014 official music video still",
+      "category": "Video Stills",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "g3",
+      "src": "/images/videos/rolexperience.jpg",
+      "alt": "Rolexperience first edition event recap",
+      "caption": "Rolexperience \u2014 1st Edition",
+      "category": "Events",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "g4",
+      "src": "/images/videos/somebody-come.jpg",
+      "alt": "Somebody Come lyrics video artwork",
+      "caption": "Somebody Come \u2014 lyrics video",
+      "category": "Video Stills",
+      "width": 480,
+      "height": 360
+    },
+    {
+      "id": "g5",
+      "src": "/images/videos/omukwano-mungi.jpg",
+      "alt": "Omukwano Mungi lyrics video still",
+      "caption": "Omukwano Mungi \u2014 lyrics",
+      "category": "Video Stills",
+      "width": 480,
+      "height": 360
+    },
+    {
+      "id": "g6",
+      "src": "/images/rano-avatar.jpg",
+      "alt": "RANO illustrated channel avatar",
+      "caption": "Official channel artwork",
+      "category": "Artwork",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "id": "g7",
+      "src": "/images/releases/rolex-guy.jpg",
+      "alt": "Rolex Guy single artwork",
+      "caption": "Rolex Guy \u2014 debut single artwork",
+      "category": "Artwork",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "id": "g8",
+      "src": "/images/releases/wacha-wewe.jpg",
+      "alt": "Wacha Wewe single artwork",
+      "caption": "Wacha Wewe \u2014 single artwork",
+      "category": "Artwork",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "news": [
+    {
+      "id": "wacha-wewe-do-dat",
+      "slug": "wacha-wewe-do-dat-out-now",
+      "title": "Wacha Wewe and Do Dat arrive on the same day",
+      "date": "2026-06-18",
+      "image": "/images/releases/wacha-wewe.jpg",
+      "tags": [
+        "Release"
+      ],
+      "excerpt": "Ugakid RANO releases two singles on June 18, 2026 \u2014 Wacha Wewe and Do Dat.",
+      "body": [
+        "Ugakid RANO put out two singles on June 18, 2026: Wacha Wewe and Do Dat. Both are available on Apple Music and other digital platforms.",
+        "The double drop keeps a run of 2026 activity that already included I'M A GORILLA with George In The Middle in February, plus features on Dis Year and Noshanana.",
+        "Stream the releases from the Music page, and watch for more announcements here."
+      ]
+    },
+    {
+      "id": "im-a-gorilla",
+      "slug": "im-a-gorilla-george-in-the-middle",
+      "title": "I'M A GORILLA links RANO with George In The Middle",
+      "date": "2026-02-23",
+      "image": "/images/releases/im-a-gorilla.jpg",
+      "tags": [
+        "Collaboration"
+      ],
+      "excerpt": "A bold February 2026 collaboration between Ugakid RANO and George In The Middle.",
+      "body": [
+        "I'M A GORILLA (feat. George In The Middle) landed on February 23, 2026, adding to a growing set of collaborations between the two artists.",
+        "The pair also appear together on Dis Year and Noshanana in early 2026, and on London Gyal via George In The Middle's Audiomack.",
+        "Find the release on the Music page."
+      ]
+    },
+    {
+      "id": "somebody-come",
+      "slug": "somebody-come-out-now",
+      "title": "Somebody Come: a soundtrack of struggle and redemption",
+      "date": "2025-09-18",
+      "image": "/images/releases/somebody-come.jpg",
+      "tags": [
+        "Release",
+        "Mental Health"
+      ],
+      "excerpt": "Featuring IFFY, Somebody Come speaks to ghetto youths and the search for light in dark places.",
+      "body": [
+        "Somebody Come (feat. IFFY) was released on September 18, 2025. In RANO's words, it is a soundtrack of struggle and redemption \u2014 an anthem for every hungry soul and restless street soldier fighting to see a better tomorrow.",
+        "The track was written by Ugakid RANO, produced by Aice, mastered by Klin The Musical and recorded at Supreme Entertainment, with artwork by YOBOYAFRICA.",
+        "The official lyrics video is on the Videos page."
+      ]
+    },
+    {
+      "id": "party-aice",
+      "slug": "party-aice-ft-ugakid-rano",
+      "title": "PARTY: Aice and Ugakid RANO turn up the volume",
+      "date": "2025-02-09",
+      "image": "/images/releases/party.jpg",
+      "tags": [
+        "Release",
+        "Collaboration"
+      ],
+      "excerpt": "A smooth, high-energy anthem built for the weekend, the dancefloor and good energy all night long.",
+      "body": [
+        "PARTY (feat. Ugakid RANO) by Aice was released in February 2025. The official music video was shot and edited by Syd of Yanki Creatives, produced by Yesaa-Fheelz and mixed/mastered by Klin.",
+        "Step into the vibe \u2014 the video is on the Videos page."
+      ]
+    },
+    {
+      "id": "rolex-guy",
+      "slug": "rolex-guy-the-debut-that-started-it",
+      "title": "Rolex Guy: the debut that started it",
+      "date": "2023-08-09",
+      "image": "/images/releases/rolex-guy.jpg",
+      "tags": [
+        "Release",
+        "Story"
+      ],
+      "excerpt": "A playful anthem inspired by Uganda's beloved street food as a symbol of love, hustle and identity.",
+      "body": [
+        "Rolex Guy, released August 9, 2023, was the debut single that first caught attention. It turns Uganda's beloved rolex street food into a playful anthem of love, hustle and identity.",
+        "Written by Ugakid RANO and produced, mixed and mastered by TrapexBoomin, with artwork by Racart Studios, it set the tone for a career built on authentic UG flavour.",
+        "The official audio and lyrics video are on the Videos page."
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "rolexperience-1",
+      "title": "ROLEXPERIENCE \u2014 1st Edition",
+      "date": null,
+      "time": null,
+      "venue": null,
+      "city": null,
+      "country": null,
+      "poster": "/images/videos/rolexperience.jpg",
+      "ticketPrice": null,
+      "ticketUrl": null,
+      "status": "past",
+      "recapVideoId": "diZURmBVqLY",
+      "description": "The debut Rolexperience event \u2014 turning culture into a movement through street food, music and shared stories."
+    }
+  ],
+  "products": []
+}

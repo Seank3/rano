@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "rolex-guy",
+    "artist": "Ugakid",
+    "title": "Rolex Guy",
+    "date": "2023-08-09",
+    "apple": "https://music.apple.com/gb/song/rolex-guy/1701899769",
+    "artwork": "/images/releases/rolex-guy.jpg"
+  },
+  {
+    "slug": "oli-muka",
+    "artist": "Ugakid",
+    "title": "Oli Muka",
+    "date": "2024-03-21",
+    "apple": "https://music.apple.com/ug/album/oli-muka/1737173438?i=1737173439",
+    "artwork": "/images/releases/oli-muka.jpg"
+  },
+  {
+    "slug": "party",
+    "artist": "Aice",
+    "title": "Party (feat. Ugakid RANO)",
+    "date": "2025-02-09",
+    "apple": "https://music.apple.com/ug/album/party-feat-ugakid-rano/1795921650?i=1795921653",
+    "artwork": "/images/releases/party.jpg"
+  },
+  {
+    "slug": "nadudu",
+    "artist": "Aice",
+    "title": "Nadudu (feat. Ugakid RANO)",
+    "date": "2025-07-01",
+    "apple": "https://music.apple.com/ug/album/nadudu-feat-ugakid-rano/1824377908?i=1824377913",
+    "artwork": "/images/releases/nadudu.jpg"
+  },
+  {
+    "slug": "kampala",
+    "artist": "Ugakid RANO",
+    "title": "Kampala",
+    "date": "2024-08-17",
+    "apple": "https://music.apple.com/ug/album/kampala/1836203567?i=1836203568",
+    "artwork": "/images/releases/kampala.jpg"
+  },
+  {
+    "slug": "omukwano-mungi",
+    "artist": "Ugakid RANO",
+    "title": "Omukwano Mungi",
+    "date": "2025-09-01",
+    "apple": "https://music.apple.com/ug/album/omukwano-mungi/1837149538?i=1837149539",
+    "artwork": "/images/releases/omukwano-mungi.jpg"
+  },
+  {
+    "slug": "do-dat",
+    "artist": "Ugakid RANO",
+    "title": "Do Dat",
+    "date": "2026-06-18",
+    "apple": "https://music.apple.com/ug/album/do-dat/6782080608?i=6782080609",
+    "artwork": "/images/releases/do-dat.jpg"
+  },
+  {
+    "slug": "wacha-wewe",
+    "artist": "Ugakid RANO",
+    "title": "Wacha Wewe",
+    "date": "2026-06-18",
+    "apple": "https://music.apple.com/ug/album/wacha-wewe/6782170306?i=6782170307",
+    "artwork": "/images/releases/wacha-wewe.jpg"
+  },
+  {
+    "slug": "somebody-come",
+    "artist": "Ugakid RANO",
+    "title": "Somebody Come (feat. IFFY)",
+    "date": "2025-09-18",
+    "apple": "https://music.apple.com/ug/album/somebody-come-feat-iffy/1841079800?i=1841079801",
+    "artwork": "/images/releases/somebody-come.jpg"
+  },
+  {
+    "slug": "dis-year",
+    "artist": "George In The Middle",
+    "title": "Dis Year (feat. UgaKid Rano)",
+    "date": "2026-03-13",
+    "apple": "https://music.apple.com/ug/album/dis-year-feat-ugakid-rano/1883096130?i=1883096131",
+    "artwork": "/images/releases/dis-year.jpg"
+  },
+  {
+    "slug": "noshanana",
+    "artist": "George In The Middle",
+    "title": "Noshanana (feat. UgaKid Rano & PB London)",
+    "date": "2026-04-04",
+    "apple": "https://music.apple.com/ug/album/noshanana-feat-ugakid-rano-pb-london/1889882417?i=1889882419",
+    "artwork": "/images/releases/noshanana.jpg"
+  },
+  {
+    "slug": "im-a-gorilla",
+    "artist": "Ugakid RANO",
+    "title": "I'M A GORILLA (feat. George In The Middle)",
+    "date": "2026-02-23",
+    "apple": "https://music.apple.com/ug/album/im-a-gorilla-feat-george-in-the-middle/1880406687?i=1880406780",
+    "artwork": "/images/releases/im-a-gorilla.jpg"
+  }
+]

@@ -1,0 +1,340 @@
+[
+  {
+    "id": "do-dat",
+    "slug": "do-dat",
+    "title": "Do Dat",
+    "artist": "Ugakid RANO",
+    "type": "single",
+    "date": "2026-06-18",
+    "genre": "Afro-Beat",
+    "artwork": "/images/releases/do-dat.jpg",
+    "description": "A 2026 single from Ugakid RANO, released June 18 alongside Wacha Wewe.",
+    "appleUrl": "https://music.apple.com/ug/album/do-dat/6782080608?i=6782080609&uo=4",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "audiomackUrl": null,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/84/b9/f6/84b9f633-e583-9a48-5323-8d7f29099aa5/mzaf_11191623677156090264.plus.aac.p.m4a",
+    "durationMs": 333320,
+    "credits": [],
+    "tracks": [
+      {
+        "n": 1,
+        "title": "Do Dat",
+        "durationMs": 333320,
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/84/b9/f6/84b9f633-e583-9a48-5323-8d7f29099aa5/mzaf_11191623677156090264.plus.aac.p.m4a"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "wacha-wewe",
+    "slug": "wacha-wewe",
+    "title": "Wacha Wewe",
+    "artist": "Ugakid RANO",
+    "type": "single",
+    "date": "2026-06-18",
+    "genre": "Afro-Beat",
+    "artwork": "/images/releases/wacha-wewe.jpg",
+    "description": "The June 2026 single from Ugakid RANO, released the same day as Do Dat.",
+    "appleUrl": "https://music.apple.com/ug/album/wacha-wewe/6782170306?i=6782170307&uo=4",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "audiomackUrl": null,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4e/31/d5/4e31d540-bd63-3c6c-feda-b732ff4612c0/mzaf_4894727602056268209.plus.aac.p.m4a",
+    "durationMs": 248240,
+    "credits": [],
+    "tracks": [
+      {
+        "n": 1,
+        "title": "Wacha Wewe",
+        "durationMs": 248240,
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4e/31/d5/4e31d540-bd63-3c6c-feda-b732ff4612c0/mzaf_4894727602056268209.plus.aac.p.m4a"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": "noshanana",
+    "slug": "noshanana",
+    "title": "Noshanana (feat. UgaKid Rano & PB London)",
+    "artist": "George In The Middle",
+    "type": "feature",
+    "date": "2026-04-04",
+    "genre": "Hip-Hop/Rap",
+    "artwork": "/images/releases/noshanana.jpg",
+    "description": "George In The Middle joins UgaKid Rano and PB London for this April 2026 release.",
+    "appleUrl": "https://music.apple.com/ug/album/noshanana-feat-ugakid-rano-pb-london/1889882417?i=1889882419&uo=4",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "audiomackUrl": null,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/be/b5/b6/beb5b6ae-d269-a816-848f-fb92d6917dac/mzaf_7187126656545881881.plus.aac.p.m4a",
+    "durationMs": 212712,
+    "credits": [],
+    "tracks": [
+      {
+        "n": 1,
+        "title": "Noshanana (feat. UgaKid Rano & PB London)",
+        "durationMs": 212712,
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/be/b5/b6/beb5b6ae-d269-a816-848f-fb92d6917dac/mzaf_7187126656545881881.plus.aac.p.m4a"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "dis-year",
+    "slug": "dis-year",
+    "title": "Dis Year (feat. UgaKid Rano)",
+    "artist": "George In The Middle",
+    "type": "feature",
+    "date": "2026-03-13",
+    "genre": "Hip-Hop/Rap",
+    "artwork": "/images/releases/dis-year.jpg",
+    "description": "George In The Middle featuring UgaKid Rano, March 2026.",
+    "appleUrl": "https://music.apple.com/ug/album/dis-year-feat-ugakid-rano/1883096130?i=1883096131&uo=4",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "audiomackUrl": null,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d3/6e/a9/d36ea95e-f480-4ddf-229c-a1ba7aeeb2d3/mzaf_3642264153418654991.plus.aac.p.m4a",
+    "durationMs": 205320,
+    "credits": [],
+    "tracks": [
+      {
+        "n": 1,
+        "title": "Dis Year (feat. UgaKid Rano)",
+        "durationMs": 205320,
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d3/6e/a9/d36ea95e-f480-4ddf-229c-a1ba7aeeb2d3/mzaf_3642264153418654991.plus.aac.p.m4a"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "im-a-gorilla",
+    "slug": "im-a-gorilla",
+    "title": "I'M A GORILLA (feat. George In The Middle)",
+    "artist": "Ugakid RANO",
+    "type": "single",
+    "date": "2026-02-23",
+    "genre": "Afro-Pop",
+    "artwork": "/images/releases/im-a-gorilla.jpg",
+    "description": "A bold 2026 collaboration between Ugakid RANO and George In The Middle.",
+    "appleUrl": "https://music.apple.com/ug/album/im-a-gorilla-feat-george-in-the-middle/1880406687?i=1880406780&uo=4",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "audiomackUrl": null,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0d/c5/cf/0dc5cf47-35b9-f879-1773-c7f09e7ac269/mzaf_12406227532834845616.plus.aac.p.m4a",
+    "durationMs": 160800,
+    "credits": [],
+    "tracks": [
+      {
+        "n": 1,
+        "title": "I'M A GORILLA (feat. George In The Middle)",
+        "durationMs": 160800,
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0d/c5/cf/0dc5cf47-35b9-f879-1773-c7f09e7ac269/mzaf_12406227532834845616.plus.aac.p.m4a"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "somebody-come",
+    "slug": "somebody-come",
+    "title": "Somebody Come (feat. IFFY)",
+    "artist": "Ugakid RANO",
+    "type": "single",
+    "date": "2025-09-18",
+    "genre": "Afro-Pop",
+    "artwork": "/images/releases/somebody-come.jpg",
+    "description": "A soundtrack of struggle and redemption, speaking to ghetto youths and the search for light in dark places.",
+    "appleUrl": "https://music.apple.com/ug/album/somebody-come-feat-iffy/1841079800?i=1841079801&uo=4",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "audiomackUrl": null,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d9/7a/9d/d97a9dd6-20bc-90de-0baf-00362fdc0c72/mzaf_13047090968068847899.plus.aac.p.m4a",
+    "durationMs": 142341,
+    "credits": [
+      "Written by Ugakid RANO",
+      "Produced by Aice",
+      "Mastered by Klin The Musical",
+      "Recorded at Supreme Entertainment",
+      "Artwork by YOBOYAFRICA"
+    ],
+    "tracks": [
+      {
+        "n": 1,
+        "title": "Somebody Come (feat. IFFY)",
+        "durationMs": 142341,
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d9/7a/9d/d97a9dd6-20bc-90de-0baf-00362fdc0c72/mzaf_13047090968068847899.plus.aac.p.m4a"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": "omukwano-mungi",
+    "slug": "omukwano-mungi",
+    "title": "Omukwano Mungi",
+    "artist": "Ugakid RANO",
+    "type": "single",
+    "date": "2025-09-01",
+    "genre": "Afro-Pop",
+    "artwork": "/images/releases/omukwano-mungi.jpg",
+    "description": "A 2025 single from Ugakid RANO.",
+    "appleUrl": "https://music.apple.com/ug/album/omukwano-mungi/1837149538?i=1837149539&uo=4",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "audiomackUrl": null,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d6/b8/b7/d6b8b78c-cc46-3925-a7f6-19e4e8a87fb1/mzaf_17987980664916369995.plus.aac.p.m4a",
+    "durationMs": 160888,
+    "credits": [],
+    "tracks": [
+      {
+        "n": 1,
+        "title": "Omukwano Mungi",
+        "durationMs": 160888,
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d6/b8/b7/d6b8b78c-cc46-3925-a7f6-19e4e8a87fb1/mzaf_17987980664916369995.plus.aac.p.m4a"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "nadudu",
+    "slug": "nadudu",
+    "title": "Nadudu (feat. Ugakid RANO)",
+    "artist": "Aice",
+    "type": "feature",
+    "date": "2025-07-01",
+    "genre": "Afro-Beat",
+    "artwork": "/images/releases/nadudu.jpg",
+    "description": "A feature from Aice's UNCHAINED project, July 2025.",
+    "appleUrl": "https://music.apple.com/ug/album/nadudu-feat-ugakid-rano/1824377908?i=1824377913&uo=4",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "audiomackUrl": null,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/53/17/f4/5317f470-e143-b6c3-bcbf-8be8cd64be00/mzaf_518126736449510414.plus.aac.p.m4a",
+    "durationMs": 160825,
+    "credits": [],
+    "tracks": [
+      {
+        "n": 1,
+        "title": "Nadudu (feat. Ugakid RANO)",
+        "durationMs": 160825,
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/53/17/f4/5317f470-e143-b6c3-bcbf-8be8cd64be00/mzaf_518126736449510414.plus.aac.p.m4a"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "party",
+    "slug": "party",
+    "title": "Party (feat. Ugakid RANO)",
+    "artist": "Aice",
+    "type": "feature",
+    "date": "2025-02-09",
+    "genre": "Afro-Beat",
+    "artwork": "/images/releases/party.jpg",
+    "description": "Aice and Ugakid RANO link up for a smooth, high-energy weekend anthem.",
+    "appleUrl": "https://music.apple.com/ug/album/party-feat-ugakid-rano/1795921650?i=1795921653&uo=4",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "audiomackUrl": null,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d7/b4/2e/d7b42ed9-4aaa-3f4f-f85e-e8b8e62147ec/mzaf_6349419183924060415.plus.aac.p.m4a",
+    "durationMs": 181277,
+    "credits": [
+      "Produced by Yesaa-Fheelz",
+      "Mixed & mastered by Klin",
+      "Video by Syd / Yanki Creatives"
+    ],
+    "tracks": [
+      {
+        "n": 1,
+        "title": "Party (feat. Ugakid RANO)",
+        "durationMs": 181277,
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d7/b4/2e/d7b42ed9-4aaa-3f4f-f85e-e8b8e62147ec/mzaf_6349419183924060415.plus.aac.p.m4a"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "kampala",
+    "slug": "kampala",
+    "title": "Kampala",
+    "artist": "Ugakid RANO",
+    "type": "single",
+    "date": "2024-08-17",
+    "genre": "Hip-Hop/Rap",
+    "artwork": "/images/releases/kampala.jpg",
+    "description": "A city anthem from Ugakid RANO, rooted in the pulse of Kampala street life.",
+    "appleUrl": "https://music.apple.com/ug/album/kampala/1836203567?i=1836203568&uo=4",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "audiomackUrl": null,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/96/bf/c5/96bfc50f-3d79-6505-b6db-f6bee3328372/mzaf_14047562700499168478.plus.aac.p.m4a",
+    "durationMs": 150247,
+    "credits": [],
+    "tracks": [
+      {
+        "n": 1,
+        "title": "Kampala",
+        "durationMs": 150247,
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/96/bf/c5/96bfc50f-3d79-6505-b6db-f6bee3328372/mzaf_14047562700499168478.plus.aac.p.m4a"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "oli-muka",
+    "slug": "oli-muka",
+    "title": "Oli Muka",
+    "artist": "Ugakid",
+    "type": "single",
+    "date": "2024-03-21",
+    "genre": "Afro-Beat",
+    "artwork": "/images/releases/oli-muka.jpg",
+    "description": "An early single from Ugakid, released March 2024.",
+    "appleUrl": "https://music.apple.com/ug/album/oli-muka/1737173438?i=1737173439&uo=4",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "audiomackUrl": null,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/c4/b8/abc4b806-e959-a456-6846-d78b333e0318/mzaf_3341221873339101118.plus.aac.p.m4a",
+    "durationMs": 161749,
+    "credits": [],
+    "tracks": [
+      {
+        "n": 1,
+        "title": "Oli Muka",
+        "durationMs": 161749,
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/c4/b8/abc4b806-e959-a456-6846-d78b333e0318/mzaf_3341221873339101118.plus.aac.p.m4a"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "rolex-guy",
+    "slug": "rolex-guy",
+    "title": "Rolex Guy",
+    "artist": "Ugakid",
+    "type": "single",
+    "date": "2023-08-09",
+    "genre": "Afro-Beat",
+    "artwork": "/images/releases/rolex-guy.jpg",
+    "description": "The debut single that turned Uganda's beloved street food into a playful anthem of love, hustle and identity.",
+    "appleUrl": "https://music.apple.com/ug/album/rolex-guy/1701899767?i=1701899769&uo=4",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "audiomackUrl": null,
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/37/a9/a2/37a9a255-df4d-cb2a-f304-8bcbaa4db1b9/mzaf_2385389321076262223.plus.aac.p.m4a",
+    "durationMs": 163785,
+    "credits": [
+      "Written by Ugakid RANO",
+      "Produced, mixed & mastered by TrapexBoomin",
+      "Artwork by Racart Studios"
+    ],
+    "tracks": [
+      {
+        "n": 1,
+        "title": "Rolex Guy",
+        "durationMs": 163785,
+        "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/37/a9/a2/37a9a255-df4d-cb2a-f304-8bcbaa4db1b9/mzaf_2385389321076262223.plus.aac.p.m4a"
+      }
+    ],
+    "featured": true
+  }
+]
